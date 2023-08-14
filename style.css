@@ -16,3 +16,10 @@ hr{
     background-color: darkcyan;
     padding: 2%;
 }
+.aprobado{
+    background-color: green;
+
+}
+.desaprobado {
+    background-color: red;
+}
